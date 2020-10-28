@@ -2,9 +2,11 @@
 ## Formulario dinámico
 ### Login
 La siguiente imagen que se muestra a continuación  nos indica que datos  debemos  ingresar en caso de  tener una cuenta ya  creada. Posteriormente dar clic en el botón ingresar. Si no se tiene una cuenta creada nos da la opción para crear una cuenta.
+
 ![img1](https://user-images.githubusercontent.com/72897083/97497547-49126900-1930-11eb-9b1a-353f1544775e.PNG)
 
  A continuación se muestran datos ingresados y nos arroja el siguiente mensaje “enviado” que nos indica que ya se ha registrado la acción.
+ 
  ![img2](https://user-images.githubusercontent.com/72897083/97498058-20d73a00-1931-11eb-82cf-d31755c3f6e6.PNG)
  
 ###  Registro
